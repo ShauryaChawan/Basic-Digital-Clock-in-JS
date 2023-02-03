@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(47, 162, 66);
+}
+
+.clock {
+    background-color: rgb(57, 43, 187);
+    padding: 10px 100px;
+    font-size: 50px;
+    border: 10px solid rgb(40, 30, 130);
+    border-radius: 10px;
+    letter-spacing: 5px;
+}
